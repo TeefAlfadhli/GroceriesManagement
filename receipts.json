@@ -1,0 +1,32 @@
+[
+    {
+        "action": "add",
+        "item": "apple",
+        "timestamp": "2024-11-08 01:38:32"
+    },
+    {
+        "action": "delete",
+        "item": "apple",
+        "timestamp": "2024-11-08 01:39:41"
+    },
+    {
+        "action": "add",
+        "item": "apple",
+        "timestamp": "2024-11-08 01:42:05"
+    },
+    {
+        "action": "add",
+        "item": "orange",
+        "timestamp": "2024-11-08 01:42:29"
+    },
+    {
+        "action": "add",
+        "item": "peaches",
+        "timestamp": "2024-11-08 01:42:49"
+    },
+    {
+        "action": "add",
+        "item": "banana",
+        "timestamp": "2024-11-08 01:43:15"
+    }
+]
